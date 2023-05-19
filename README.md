@@ -1,0 +1,2 @@
+# kSymDbg
+Debug kernel symbols
